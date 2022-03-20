@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="ja">
+  <channel>
+    <title>yskoht/podcast</title>
+
+    <itunes:owner>
+      <itunes:name>yskoht</itunes:name>
+      <itunes:email>ysk.oht@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>yskoht</itunes:author>
+
+    <description>雑談するポッドキャストです。</description>
+    <itunes:summary>雑談するポッドキャストです。</itunes:summary>
+
+    <link>https://stand.fm/channels/60f6967f04bb1691c1305a58</link>
+    <atom:link href="https://yskoht.github.io/podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:new-feed-url>https://yskoht.github.io/podcast/feed.xml</itunes:new-feed-url>
+    <itunes:image href="https://yskoht.github.io/podcast/images/itunes_artwork.png"/>
+
+    <itunes:keywords>technology,yskoht</itunes:keywords>
+    <media:keywords>technology,yskoht</media:keywords>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology</media:category>
+    <itunes:category text="Technology"/>
+
+    <language>ja</language>
+    <itunes:explicit>no</itunes:explicit>
+
+
+    <item>
+      <title>2. macのDockerが激重 w/ひらく</title>
+      <pubDate>Thu, 21 Oct 2021 21:00:00 +0900</pubDate>
+      <enclosure url="https://cdn.stand.fm/audios/01FR15XVDYV9435E76QER8D39X.m4a" type="audio/x-m4a" length="50930895"/>
+      <itunes:duration>52:16</itunes:duration>
+      <link>https://stand.fm/episodes/615da0b52028fc0006dbc335</link>
+      <guid isPermaLink="true">https://stand.fm/episodes/615da0b52028fc0006dbc335</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>yskoht</itunes:author>
+      <itunes:subtitle>ひらくさんと猫、iPhone13、コントローラーの持ち方、Docker、車椅子バスケ、GoPro9 などについて雑談しました。</itunes:subtitle>
+      <itunes:image href="https://yskoht.github.io/podcast/images/episode2.png" />
+      <description><![CDATA[ <p><a href="https://twitter.com/yamazaki_sensei">ひらく</a>さんと雑談しました。</p>
+<h3>Show Notes</h3>
+<ul>
+<li>猫に出口を塞がれる🐈‍⬛</li>
+<li>Firebase Authentication🔑</li>
+<li>iPhone13📱</li>
+<li>ゲームのコントローラーの持ち方にブレイクスルーが発生した🎮</li>
+<li>SwitchでやるかPCでやるか🖥</li>
+<li>macのDockerが激重🐳</li>
+<li>パラリンピックの車椅子バスケ🏀</li>
+<li>GoPro9📷</li>
+</ul>
+]]></description>
+    </item>
+
+  </channel>
+</rss>
