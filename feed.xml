@@ -27,6 +27,131 @@
 
 
     <item>
+      <title>5. M1 Macは何事もなく物事が進んでいく感じ w/diskshima</title>
+      <pubDate>Sat, 26 Feb 2022 21:00:00 +0900</pubDate>
+      <enclosure url="https://cdn.stand.fm/audios/01FYKEYNRKBH9H8A374MSZXJ2N.m4a" type="audio/x-m4a" length="59550268"/>
+      <itunes:duration>1:01:41</itunes:duration>
+      <link>https://stand.fm/episodes/6216697a140a2b0006ad237c</link>
+      <guid isPermaLink="true">https://stand.fm/episodes/6216697a140a2b0006ad237c</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>yskoht</itunes:author>
+      <itunes:subtitle>Daisuke ShimamotoさんとGitHub Actions、キーボード、CharaChorder、M1 Mac、CSS、プログラミングスクール などについて雑談しました。</itunes:subtitle>
+      <itunes:image href="https://yskoht.github.io/podcast/images/episode5.png" />
+      <description><![CDATA[ <p><a href="https://twitter.com/diskshima">Daisuke Shimamoto</a>さんと雑談しました。</p>
+<h3>Show Notes</h3>
+<ul>
+
+<li>GitHub Actions の linter 👮‍♂️</li>
+  <ul>
+    <li><a href="https://github.com/rhysd/actionlint">rhysd / actionlint</a></li>
+  </ul>
+<li> キーボードについて相談したい⌨️</li>
+  <ul>
+    <li><a href="https://shop.yushakobo.jp/products/kailh-speed?variant=37665714274465">Kailh Speed ​​switches (Copper)</a></li>
+    <li><a href="https://shop.yushakobo.jp/">遊舎工房</a></li>
+  </ul>
+<li><a href="https://www.charachorder.com/">CharaChorder 🍄</a></li>
+  <ul>
+    <li><a href="https://gigazine.net/news/20220107-fast-keyboard-charachorder/">チートを疑われるほどの爆速タイピングを可能とするキーボード「CharaChorder」とは？ - GIGAZINE</a></li>
+    <li><a href="https://ja.wikipedia.org/wiki/Sl_(UNIX)">sl</a></li>
+    <li><a href="https://www.youtube.com/watch?v=P5DCDiCv4TE">Coding by Voice with Dragonfly</a></li>
+  </ul>
+<li>M1 Mac素敵 🍎</li>
+  <ul><li>M1が速い理由を調べてみた</li></ul>
+<li>CSSがなぜ難しいのか？😫</li>
+  <ul>
+    <li><a href="https://web.dev/learn/css/">Learn CSS</a></li>
+  </ul>
+<li>プログラミングスクールからプロへの道について 🎓</li>
+<li><a href="https://diskshima.github.io/fl2ts-web/">Flow to TypeScript Converter 🌴</a></li>
+</ul>
+]]></description>
+    </item>
+
+
+    <item>
+      <title>4. 144Hzがコスパ的に最適 w/nemolize</title>
+      <pubDate>Sun, 23 Jan 2022 21:00:00 +0900</pubDate>
+      <enclosure url="https://cdn.stand.fm/audios/01FYKEPGTPHVMRVV61T6E4EDQW.m4a" type="audio/x-m4a" length="52520828"/>
+      <itunes:duration>54:10</itunes:duration>
+      <link>https://stand.fm/episodes/61ec218b08347a00077cd9b3</link>
+      <guid isPermaLink="true">https://stand.fm/episodes/61ec218b08347a00077cd9b3</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>yskoht</itunes:author>
+      <itunes:subtitle>nemolizeさんとLinux、Tailwind CSS、Innocn、Oculus Quest 2、自作キーボード などについて雑談しました。</itunes:subtitle>
+      <itunes:image href="https://yskoht.github.io/podcast/images/episode4.png" />
+      <description><![CDATA[ <p><a href="https://twitter.com/nemolize1">nemolize</a>さんと雑談しました。</p>
+<h3>Show Notes</h3>
+<ul>
+<li>PC自作してMacからLinuxに乗り換えた🐧</li>
+  <ul>
+    <li><a href="https://github.com/debauchee/barrier">debauchee/barrier</a></li>
+    <li><a href="https://manjaro.org/">Manjaro - enjoy the simplicity</a></li>
+  </ul>
+<li><a href="https://tailwindcss.com/">Tailwind CSS🌪</a></li>
+<li>Innocn 43.8インチ モニター ウルトラワイド🖥</li>
+  <ul>
+    <li>G-Sync, FreeSync</li>
+    <li><a href="https://www.testufo.com/">UFO Test: Multiple Framerates</a></li>
+  </ul>
+<li>Oculus Quest2🥽</li>
+  <ul>
+    <li><a href="https://ocul.us/3IyeUaB">クリード: 栄光への道</a></li>
+    <li><a href="https://immersed.com/">immersed</a></li>
+  </ul>
+<li>Google Driveは無料枠15GB超えそう💾</li>
+  <ul>
+    <li><a href="https://aws.amazon.com/jp/s3/storage-classes/glacier/">Amazon S3 Glacier</a></li>
+  </ul>
+<li>仕事中に自作キーボードのダイオードがパッドごともげて焦った⌨️</li>
+  <ul>
+    <li><a href="https://github.com/foostan/crkbd">foostan/crkbd</a></li>
+    <li><a href="https://github.com/yskoht/pakbd-device">yskoht/pakbd-device</a></li>
+    <li><a href="https://karabiner-elements.pqrs.org/">Karabiner-Elements</a></li>
+  </ul>
+</ul>
+]]></description>
+    </item>
+
+
+    <item>
+      <title>3. 新MacBook Proのキラーフィーチャー w/kanenobu</title>
+      <pubDate>Tue, 14 Dec 2021 21:00:00 +0900</pubDate>
+      <enclosure url="https://cdn.stand.fm/audios/01FYKEG8Q6BF8K0D5XY9FB5531.m4a" type="audio/x-m4a" length="58812271"/>
+      <itunes:duration>59:59</itunes:duration>
+      <link>https://stand.fm/episodes/61b896b1b290b10007f412e4</link>
+      <guid isPermaLink="true">https://stand.fm/episodes/61b896b1b290b10007f412e4</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>yskoht</itunes:author>
+      <itunes:subtitle>kanenobuさんとフロントエンド、Oculus Quest 2、iPad mini、NixOS、WTF、PyPl、MacBook Pro などについて雑談しました。</itunes:subtitle>
+      <itunes:image href="https://yskoht.github.io/podcast/images/episode3.png" />
+      <description><![CDATA[ <p><a href="https://twitter.com/mkane_1000">kanenobu</a>さんと雑談しました。</p>
+<h3>Show Notes</h3>
+<ul>
+<li>フロントエンド辛い 😇</li>
+<li>slackでdenoを動かす 🦖</li>
+  <ul><li><a href="https://api.slack.com/future">Flexible automation for everyone | Slack</a></li></ul>
+<li>Oculus Quest 2 で打ち合わせ 🥽</li>
+<li>iPad mini 🍎</li>
+  <ul>
+    <li><a href="https://www.goodnotes.com/">GoodNotes | Best Note-Taking App for iPad</a></li>
+    <li><a href="https://oukayuka.booth.pm/">くるみ割り書房 ft. React - BOOTH</a></li>
+  </ul>
+<li>NixOS 💻</li>
+  <ul><li><a href="https://github.com/yskoht/keymapviz">yskoht/keymapviz</a></li></ul>
+<li>Uber Eats 🚴</li>
+<li>WTF 🤖</li>
+  <ul><li><a href="https://developer.android.com/reference/android/util/Log">Log | Android Developers</a></li></ul>
+<li>PyPI 🧀</li>
+  <ul><li><a href="https://qiita.com/hamemi/items/2e5ff5bf4ade3f30ac02">PyPI の読み方 - Qiita</a></li></ul>
+<li>Disney+ 🐭</li>
+<li>MacBook Pro 🍜</li>
+</ul>
+]]></description>
+    </item>
+
+
+    <item>
       <title>2. macのDockerが激重 w/ひらく</title>
       <pubDate>Thu, 21 Oct 2021 21:00:00 +0900</pubDate>
       <enclosure url="https://cdn.stand.fm/audios/01FR15XVDYV9435E76QER8D39X.m4a" type="audio/x-m4a" length="50930895"/>
