@@ -27,7 +27,60 @@
 
 
     <item>
-      <title>5. M1 Macは何事もなく物事が進んでいく感じ w/diskshima</title>
+      <title>6. 競馬データをスクレイピングするのは止めてください (obi)</title>
+      <pubDate>Sun, 27 Mar 2022 13:40:00 +0900</pubDate>
+      <enclosure url="https://cdn.stand.fm/audios/01FZ4TM2F6784BC4VXQRRH2ZKQ.m4a" type="audio/x-m4a" length="59011684"/>
+      <itunes:duration>1:03:54</itunes:duration>
+      <link>https://stand.fm/episodes/623fe9a1afee4000067bcb6a</link>
+      <guid isPermaLink="true">https://stand.fm/episodes/623fe9a1afee4000067bcb6a</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>yskoht</itunes:author>
+      <itunes:subtitle>obiさんと2倍速、近況、メーターよみとり君、競馬AI、オープニングソング などについて雑談しました。</itunes:subtitle>
+      <itunes:image href="https://yskoht.github.io/podcast/images/episode6.png" />
+      <description><![CDATA[ <p><a href="https://twitter.com/hiroyukiobinata">obi</a>さんと雑談しました。</p>
+<h3>Show Notes</h3>
+<ul>
+
+<li>[0:02:54] 2倍速 🌀</li>
+
+<li>[0:05:59] 近況 🌬</li>
+<ul>
+  <li><a href="https://tier4.jp/">Tier IV</a></li>
+  <li><a href="https://github.com/tier4/ota-client">tier4 / ota-client</a></li>
+  <li><a href="https://github.com/autowarefoundation">The Autoware Foundation</a></li>
+</ul>
+
+<li>[0:15:41] メーターよみとり君 🕒</li>
+<ul>
+  <li><a href="https://twitter.com/hiroyukiobinata/status/1506452013663789058">メーターよみとり君</a></li>
+  <li><a href="https://play.google.com/store/apps/details?id=com.tile_score_app&hl=ja&gl=US">麻雀.AI 得点君~カメラをかざしてアガリを自動識別~</a></li>
+  <li><a href="https://www.lancers.jp/">ランサーズ | 日本最大級のクラウドソーシング仕事依頼サイト</a></li>
+  <li><a href="https://www.mturk.com/">Amazon Mechanical Turk</a></li>
+  <li><a href="https://www.youtube.com/watch?v=IAIzX2EpqW0">【これも将棋AIです】将棋の解説を音声認識し盤面に表示 - YouTube</a></li>
+  <li><a href="https://colab.research.google.com/signup">Google Colab</a></li>
+</ul>
+
+<li>[0:46:37] 競馬AI 🐎</li>
+<ul>
+  <li><a href="https://jra-van.jp/dlb/sft/lib/pckeibadb.html">PC-KEIBA Database</a></li>
+</ul>
+
+<li>[0:58:51] オープニングソングとかいらないの？📻</li>
+<ul>
+  <li><a href="https://ja.wikipedia.org/wiki/DAISUKI!">DAISUKI! - Wikipedia</a></li>
+  <li><a href="https://www.youtube.com/watch?v=iktW0MH41Co">Sugar Babe - Show - YouTube</a></li>
+  <li><a href="https://www.youtube.com/watch?v=GwLQ9M8sBXs">Sky High - YouTube</a></li>
+  <li><a href="https://www.youtube.com/watch?v=eRbqNlDJOJg">THUNDER STORM (Theme of Genichiro Tenryu) - YouTube</a></li>
+  <li><a href="https://www.youtube.com/watch?v=jUQCKZZQcKA">Bittersweet Samba - YouTube</a></li>
+</ul>
+
+</ul>
+]]></description>
+    </item>
+
+
+    <item>
+      <title>5. M1 Macは何事もなく物事が進んでいく感じ (diskshima)</title>
       <pubDate>Sat, 26 Feb 2022 21:00:00 +0900</pubDate>
       <enclosure url="https://cdn.stand.fm/audios/01FYKEYNRKBH9H8A374MSZXJ2N.m4a" type="audio/x-m4a" length="59550268"/>
       <itunes:duration>1:01:41</itunes:duration>
@@ -70,7 +123,7 @@
 
 
     <item>
-      <title>4. 144Hzがコスパ的に最適 w/nemolize</title>
+      <title>4. 144Hzがコスパ的に最適 (nemolize)</title>
       <pubDate>Sun, 23 Jan 2022 21:00:00 +0900</pubDate>
       <enclosure url="https://cdn.stand.fm/audios/01FYKEPGTPHVMRVV61T6E4EDQW.m4a" type="audio/x-m4a" length="52520828"/>
       <itunes:duration>54:10</itunes:duration>
@@ -115,7 +168,7 @@
 
 
     <item>
-      <title>3. 新MacBook Proのキラーフィーチャー w/kanenobu</title>
+      <title>3. 新MacBook Proのキラーフィーチャー (kanenobu)</title>
       <pubDate>Tue, 14 Dec 2021 21:00:00 +0900</pubDate>
       <enclosure url="https://cdn.stand.fm/audios/01FYKEG8Q6BF8K0D5XY9FB5531.m4a" type="audio/x-m4a" length="58812271"/>
       <itunes:duration>59:59</itunes:duration>
@@ -152,7 +205,7 @@
 
 
     <item>
-      <title>2. macのDockerが激重 w/ひらく</title>
+      <title>2. macのDockerが激重 (ひらく)</title>
       <pubDate>Thu, 21 Oct 2021 21:00:00 +0900</pubDate>
       <enclosure url="https://cdn.stand.fm/audios/01FR15XVDYV9435E76QER8D39X.m4a" type="audio/x-m4a" length="50930895"/>
       <itunes:duration>52:16</itunes:duration>
