@@ -37,20 +37,23 @@
       <itunes:author>yskoht</itunes:author>
       <itunes:subtitle>obiさんと2倍速、近況、メーターよみとり君、競馬AI、オープニングソング などについて雑談しました。</itunes:subtitle>
       <itunes:image href="https://yskoht.github.io/podcast/images/episode6.png" />
-      <description><![CDATA[ <p><a href="https://twitter.com/hiroyukiobinata">obi</a>さんと雑談しました。</p>
-<h3>Show Notes</h3>
-<ul>
+      <description><![CDATA[ <p><a href="https://twitter.com/hiroyukiobinata">obi</a>さんと雑談しました。</p><br />
+<h2>Show Notes</h2>
 
-<li>[0:02:54] 2倍速 🌀</li>
+<br />
+<h3>[0:02:54] 2倍速 🌀</h3>
 
-<li>[0:05:59] 近況 🌬</li>
+<br />
+<h3>[0:05:59] 近況 🌬</h3>
 <ul>
   <li><a href="https://tier4.jp/">Tier IV</a></li>
   <li><a href="https://github.com/tier4/ota-client">tier4 / ota-client</a></li>
   <li><a href="https://github.com/autowarefoundation">The Autoware Foundation</a></li>
 </ul>
+<br />
 
-<li>[0:15:41] メーターよみとり君 🕒</li>
+<br />
+<h3>[0:15:41] メーターよみとり君 🕒</h3>
 <ul>
   <li><a href="https://twitter.com/hiroyukiobinata/status/1506452013663789058">メーターよみとり君</a></li>
   <li><a href="https://play.google.com/store/apps/details?id=com.tile_score_app&hl=ja&gl=US">麻雀.AI 得点君~カメラをかざしてアガリを自動識別~</a></li>
@@ -59,21 +62,23 @@
   <li><a href="https://www.youtube.com/watch?v=IAIzX2EpqW0">【これも将棋AIです】将棋の解説を音声認識し盤面に表示 - YouTube</a></li>
   <li><a href="https://colab.research.google.com/signup">Google Colab</a></li>
 </ul>
+<br />
 
-<li>[0:46:37] 競馬AI 🐎</li>
+<br />
+<h3>[0:46:37] 競馬AI 🐎</h3>
 <ul>
   <li><a href="https://jra-van.jp/dlb/sft/lib/pckeibadb.html">PC-KEIBA Database</a></li>
 </ul>
+<br />
 
-<li>[0:58:51] オープニングソングとかいらないの？📻</li>
+<br />
+<h3>[0:58:51] オープニングソングとかいらないの？📻</h3>
 <ul>
   <li><a href="https://ja.wikipedia.org/wiki/DAISUKI!">DAISUKI! - Wikipedia</a></li>
   <li><a href="https://www.youtube.com/watch?v=iktW0MH41Co">Sugar Babe - Show - YouTube</a></li>
   <li><a href="https://www.youtube.com/watch?v=GwLQ9M8sBXs">Sky High - YouTube</a></li>
   <li><a href="https://www.youtube.com/watch?v=eRbqNlDJOJg">THUNDER STORM (Theme of Genichiro Tenryu) - YouTube</a></li>
   <li><a href="https://www.youtube.com/watch?v=jUQCKZZQcKA">Bittersweet Samba - YouTube</a></li>
-</ul>
-
 </ul>
 ]]></description>
     </item>
@@ -90,34 +95,52 @@
       <itunes:author>yskoht</itunes:author>
       <itunes:subtitle>Daisuke ShimamotoさんとGitHub Actions、キーボード、CharaChorder、M1 Mac、CSS、プログラミングスクール などについて雑談しました。</itunes:subtitle>
       <itunes:image href="https://yskoht.github.io/podcast/images/episode5.png" />
-      <description><![CDATA[ <p><a href="https://twitter.com/diskshima">Daisuke Shimamoto</a>さんと雑談しました。</p>
-<h3>Show Notes</h3>
-<ul>
+      <description><![CDATA[ <p><a href="https://twitter.com/diskshima">Daisuke Shimamoto</a>さんと雑談しました。</p><br />
+<h2>Show Notes</h2>
 
-<li>GitHub Actions の linter 👮‍♂️</li>
-  <ul>
-    <li><a href="https://github.com/rhysd/actionlint">rhysd / actionlint</a></li>
-  </ul>
-<li> キーボードについて相談したい⌨️</li>
-  <ul>
-    <li><a href="https://shop.yushakobo.jp/products/kailh-speed?variant=37665714274465">Kailh Speed ​​switches (Copper)</a></li>
-    <li><a href="https://shop.yushakobo.jp/">遊舎工房</a></li>
-  </ul>
-<li><a href="https://www.charachorder.com/">CharaChorder 🍄</a></li>
-  <ul>
-    <li><a href="https://gigazine.net/news/20220107-fast-keyboard-charachorder/">チートを疑われるほどの爆速タイピングを可能とするキーボード「CharaChorder」とは？ - GIGAZINE</a></li>
-    <li><a href="https://ja.wikipedia.org/wiki/Sl_(UNIX)">sl</a></li>
-    <li><a href="https://www.youtube.com/watch?v=P5DCDiCv4TE">Coding by Voice with Dragonfly</a></li>
-  </ul>
-<li>M1 Mac素敵 🍎</li>
-  <ul><li>M1が速い理由を調べてみた</li></ul>
-<li>CSSがなぜ難しいのか？😫</li>
-  <ul>
-    <li><a href="https://web.dev/learn/css/">Learn CSS</a></li>
-  </ul>
-<li>プログラミングスクールからプロへの道について 🎓</li>
-<li><a href="https://diskshima.github.io/fl2ts-web/">Flow to TypeScript Converter 🌴</a></li>
+<br />
+<h3>GitHub Actions の linter 👮‍♂️</h3>
+<ul>
+  <li><a href="https://github.com/rhysd/actionlint">rhysd / actionlint</a></li>
 </ul>
+<br />
+
+<br />
+<h3> キーボードについて相談したい⌨️</h3>
+<ul>
+  <li><a href="https://shop.yushakobo.jp/products/kailh-speed?variant=37665714274465">Kailh Speed ​​switches (Copper)</a></li>
+  <li><a href="https://shop.yushakobo.jp/">遊舎工房</a></li>
+</ul>
+<br />
+
+<br />
+<h3><a href="https://www.charachorder.com/">CharaChorder 🍄</a></h3>
+<ul>
+  <li><a href="https://gigazine.net/news/20220107-fast-keyboard-charachorder/">チートを疑われるほどの爆速タイピングを可能とするキーボード「CharaChorder」とは？ - GIGAZINE</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/Sl_(UNIX)">sl</a></li>
+  <li><a href="https://www.youtube.com/watch?v=P5DCDiCv4TE">Coding by Voice with Dragonfly</a></li>
+</ul>
+<br />
+
+<br />
+<h3>M1 Mac素敵 🍎</h3>
+<ul>
+  <li>M1が速い理由を調べてみた</li>
+</ul>
+<br />
+
+<br />
+<h3>CSSがなぜ難しいのか？😫</h3>
+<ul>
+  <li><a href="https://web.dev/learn/css/">Learn CSS</a></li>
+</ul>
+<br />
+
+<br />
+<h3>プログラミングスクールからプロへの道について 🎓</h3>
+
+<br />
+<h3><a href="https://diskshima.github.io/fl2ts-web/">Flow to TypeScript Converter 🌴</a></h3>
 ]]></description>
     </item>
 
@@ -133,35 +156,49 @@
       <itunes:author>yskoht</itunes:author>
       <itunes:subtitle>nemolizeさんとLinux、Tailwind CSS、Innocn、Oculus Quest 2、自作キーボード などについて雑談しました。</itunes:subtitle>
       <itunes:image href="https://yskoht.github.io/podcast/images/episode4.png" />
-      <description><![CDATA[ <p><a href="https://twitter.com/nemolize1">nemolize</a>さんと雑談しました。</p>
-<h3>Show Notes</h3>
+      <description><![CDATA[ <p><a href="https://twitter.com/nemolize1">nemolize</a>さんと雑談しました。</p><br />
+<h2>Show Notes</h2>
+
+<br />
+<h3>PC自作してMacからLinuxに乗り換えた🐧</h3>
 <ul>
-<li>PC自作してMacからLinuxに乗り換えた🐧</li>
-  <ul>
-    <li><a href="https://github.com/debauchee/barrier">debauchee/barrier</a></li>
-    <li><a href="https://manjaro.org/">Manjaro - enjoy the simplicity</a></li>
-  </ul>
-<li><a href="https://tailwindcss.com/">Tailwind CSS🌪</a></li>
-<li>Innocn 43.8インチ モニター ウルトラワイド🖥</li>
-  <ul>
-    <li>G-Sync, FreeSync</li>
-    <li><a href="https://www.testufo.com/">UFO Test: Multiple Framerates</a></li>
-  </ul>
-<li>Oculus Quest2🥽</li>
-  <ul>
-    <li><a href="https://ocul.us/3IyeUaB">クリード: 栄光への道</a></li>
-    <li><a href="https://immersed.com/">immersed</a></li>
-  </ul>
-<li>Google Driveは無料枠15GB超えそう💾</li>
-  <ul>
-    <li><a href="https://aws.amazon.com/jp/s3/storage-classes/glacier/">Amazon S3 Glacier</a></li>
-  </ul>
-<li>仕事中に自作キーボードのダイオードがパッドごともげて焦った⌨️</li>
-  <ul>
-    <li><a href="https://github.com/foostan/crkbd">foostan/crkbd</a></li>
-    <li><a href="https://github.com/yskoht/pakbd-device">yskoht/pakbd-device</a></li>
-    <li><a href="https://karabiner-elements.pqrs.org/">Karabiner-Elements</a></li>
-  </ul>
+  <li><a href="https://github.com/debauchee/barrier">debauchee/barrier</a></li>
+  <li><a href="https://manjaro.org/">Manjaro - enjoy the simplicity</a></li>
+</ul>
+<br />
+
+<br />
+<h3><a href="https://tailwindcss.com/">Tailwind CSS🌪</a></h3>
+
+<br />
+<h3>Innocn 43.8インチ モニター ウルトラワイド🖥</h3>
+<ul>
+  <li>G-Sync, FreeSync</li>
+  <li><a href="https://www.testufo.com/">UFO Test: Multiple Framerates</a></li>
+</ul>
+<br />
+
+<br />
+<h3>Oculus Quest2🥽</h3>
+<ul>
+  <li><a href="https://ocul.us/3IyeUaB">クリード: 栄光への道</a></li>
+  <li><a href="https://immersed.com/">immersed</a></li>
+</ul>
+<br />
+
+<br />
+<h3>Google Driveは無料枠15GB超えそう💾</h3>
+<ul>
+  <li><a href="https://aws.amazon.com/jp/s3/storage-classes/glacier/">Amazon S3 Glacier</a></li>
+</ul>
+<br />
+
+<br />
+<h3>仕事中に自作キーボードのダイオードがパッドごともげて焦った⌨️</h3>
+<ul>
+  <li><a href="https://github.com/foostan/crkbd">foostan/crkbd</a></li>
+  <li><a href="https://github.com/yskoht/pakbd-device">yskoht/pakbd-device</a></li>
+  <li><a href="https://karabiner-elements.pqrs.org/">Karabiner-Elements</a></li>
 </ul>
 ]]></description>
     </item>
@@ -178,28 +215,59 @@
       <itunes:author>yskoht</itunes:author>
       <itunes:subtitle>kanenobuさんとフロントエンド、Oculus Quest 2、iPad mini、NixOS、WTF、PyPl、MacBook Pro などについて雑談しました。</itunes:subtitle>
       <itunes:image href="https://yskoht.github.io/podcast/images/episode3.png" />
-      <description><![CDATA[ <p><a href="https://twitter.com/mkane_1000">kanenobu</a>さんと雑談しました。</p>
-<h3>Show Notes</h3>
+      <description><![CDATA[ <p><a href="https://twitter.com/mkane_1000">kanenobu</a>さんと雑談しました。</p><br />
+<h2>Show Notes</h2>
+
+<br />
+<h3>フロントエンド辛い 😇</h3>
+
+<br />
+<h3>slackでdenoを動かす 🦖</h3>
 <ul>
-<li>フロントエンド辛い 😇</li>
-<li>slackでdenoを動かす 🦖</li>
-  <ul><li><a href="https://api.slack.com/future">Flexible automation for everyone | Slack</a></li></ul>
-<li>Oculus Quest 2 で打ち合わせ 🥽</li>
-<li>iPad mini 🍎</li>
-  <ul>
-    <li><a href="https://www.goodnotes.com/">GoodNotes | Best Note-Taking App for iPad</a></li>
-    <li><a href="https://oukayuka.booth.pm/">くるみ割り書房 ft. React - BOOTH</a></li>
-  </ul>
-<li>NixOS 💻</li>
-  <ul><li><a href="https://github.com/yskoht/keymapviz">yskoht/keymapviz</a></li></ul>
-<li>Uber Eats 🚴</li>
-<li>WTF 🤖</li>
-  <ul><li><a href="https://developer.android.com/reference/android/util/Log">Log | Android Developers</a></li></ul>
-<li>PyPI 🧀</li>
-  <ul><li><a href="https://qiita.com/hamemi/items/2e5ff5bf4ade3f30ac02">PyPI の読み方 - Qiita</a></li></ul>
-<li>Disney+ 🐭</li>
-<li>MacBook Pro 🍜</li>
+  <li><a href="https://api.slack.com/future">Flexible automation for everyone | Slack</a></li>
 </ul>
+<br />
+
+<br />
+<h3>Oculus Quest 2 で打ち合わせ 🥽</h3>
+
+<br />
+<h3>iPad mini 🍎</h3>
+<ul>
+  <li><a href="https://www.goodnotes.com/">GoodNotes | Best Note-Taking App for iPad</a></li>
+  <li><a href="https://oukayuka.booth.pm/">くるみ割り書房 ft. React - BOOTH</a></li>
+</ul>
+<br />
+
+<br />
+<h3>NixOS 💻</h3>
+<ul>
+  <li><a href="https://github.com/yskoht/keymapviz">yskoht/keymapviz</a></li>
+</ul>
+<br />
+
+<br />
+<h3>Uber Eats 🚴</h3>
+
+<br />
+<h3>WTF 🤖</h3>
+<ul>
+  <li><a href="https://developer.android.com/reference/android/util/Log">Log | Android Developers</a></li>
+</ul>
+<br />
+
+<br />
+<h3>PyPI 🧀</h3>
+<ul>
+  <li><a href="https://qiita.com/hamemi/items/2e5ff5bf4ade3f30ac02">PyPI の読み方 - Qiita</a></li>
+</ul>
+<br />
+
+<br />
+<h3>Disney+ 🐭</h3>
+
+<br />
+<h3>MacBook Pro 🍜</h3>
 ]]></description>
     </item>
 
@@ -215,18 +283,32 @@
       <itunes:author>yskoht</itunes:author>
       <itunes:subtitle>ひらくさんと猫、iPhone13、コントローラーの持ち方、Docker、車椅子バスケ、GoPro9 などについて雑談しました。</itunes:subtitle>
       <itunes:image href="https://yskoht.github.io/podcast/images/episode2.png" />
-      <description><![CDATA[ <p><a href="https://twitter.com/yamazaki_sensei">ひらく</a>さんと雑談しました。</p>
-<h3>Show Notes</h3>
-<ul>
-<li>猫に出口を塞がれる🐈‍⬛</li>
-<li>Firebase Authentication🔑</li>
-<li>iPhone13📱</li>
-<li>ゲームのコントローラーの持ち方にブレイクスルーが発生した🎮</li>
-<li>SwitchでやるかPCでやるか🖥</li>
-<li>macのDockerが激重🐳</li>
-<li>パラリンピックの車椅子バスケ🏀</li>
-<li>GoPro9📷</li>
-</ul>
+      <description><![CDATA[ <p><a href="https://twitter.com/yamazaki_sensei">ひらく</a>さんと雑談しました。</p><br />
+<h2>Show Notes</h2>
+
+<br />
+<h3>猫に出口を塞がれる🐈‍⬛</h3>
+
+<br />
+<h3>Firebase Authentication🔑</h3>
+
+<br />
+<h3>iPhone13📱</h3>
+
+<br />
+<h3>ゲームのコントローラーの持ち方にブレイクスルーが発生した🎮</h3>
+
+<br />
+<h3>SwitchでやるかPCでやるか🖥</h3>
+
+<br />
+<h3>macのDockerが激重🐳</h3>
+
+<br />
+<h3>パラリンピックの車椅子バスケ🏀</h3>
+
+<br />
+<h3>GoPro9📷</h3>
 ]]></description>
     </item>
 
