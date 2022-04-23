@@ -27,6 +27,78 @@
 
 
     <item>
+      <title>7. 風呂に入る力を過信しすぎた (ひらく)</title>
+      <pubDate>Sat, 23 Apr 2022 22:54:00 +0900</pubDate>
+      <enclosure url="https://cdn.stand.fm/audios/01G1BA5V0JDVTFY0YSMMPH9QA2.m4a" type="audio/x-m4a" length="44585533"/>
+      <itunes:duration>45:23</itunes:duration>
+      <link>https://stand.fm/episodes/62640085da25230007ed4c10</link>
+      <guid isPermaLink="true">https://stand.fm/episodes/62640085da25230007ed4c10</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>yskoht</itunes:author>
+      <itunes:subtitle>ひらくさんと猫、プロフィールページ、ゴールデンウィーク、Docker、勤怠管理ツール、Haskell、Podcast などについて雑談しました。</itunes:subtitle>
+      <itunes:image href="https://yskoht.github.io/podcast/images/episode7.png" />
+      <description><![CDATA[ <p><a href="https://twitter.com/yamazaki_sensei">ひらく</a>さんと雑談しました。</p><br />
+<h2>Show Notes</h2>
+
+<br />
+<h3>[0:00:42] 猫が増えました🐈 </h3>
+
+<br />
+<h3>[0:03:50] プロフィールページ✍️</h3>
+<ul>
+  <li><a href="https://vitejs.dev/">Vite</a></li>
+  <li><a href="https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects">About projects (beta) - GitHub Docs</a></li>
+  <li><a href="https://clickup.com/">ClickUp™ | One app to replace them all</a></li>
+  <li><a href="https://www.amazon.co.jp/dp/B00UX9VJGW/ref=dp-kindle-redirect?_encoding=UTF8&amp&btkr=1">実践ドメイン駆動設計 | ヴォーン・ヴァーノン, 高木 正弘</a></li>
+  <li><a href="https://github.com/VaughnVernon/IDDD_Samples">VaughnVernon/IDDD_Samples</a></li>
+</ul>
+<br />
+
+<br />
+<h3>[0:14:36]ゴールデンウィーク何する問題🤔</h3>
+<ul>
+  <li><a href="https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B1%B1%E9%9B%85%E6%B2%BB%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%8A%E3%82%A4%E3%83%88%E3%83%8B%E3%83%83%E3%83%9D%E3%83%B3%E3%82%B5%E3%82%BF%E3%83%87%E3%83%BC%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%BB%E9%AD%82%E3%81%AE%E3%83%A9%E3%82%B8%E3%82%AA">福山雅治のオールナイトニッポンサタデースペシャル・魂のラジオ - Wikipedia</a></li>
+  <li><a href="https://www.youtube.com/watch?v=ALidsn1jdXg">#11 福山流ギター練習法 〜基礎編〜 - YouTube</a></li>
+  <li><a href="https://www.youtube.com/watch?v=hTWKbfoikeg">Nirvana - Smells Like Teen Spirit (Official Music Video) - YouTube</a></li>
+  <li><a href="https://sidebysideradio.libsyn.com/">Side by Side Radio</a></li>
+  <li><a href="https://www.youtube.com/watch?v=zUwEIt9ez7M">Deep Purple - Smoke on the Water (Audio) - YouTube</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E5%AD%A6%E6%A0%A1%E3%81%B8%E8%A1%8C%E3%81%93%E3%81%86!_(%E3%83%90%E3%83%A9%E3%82%A8%E3%83%86%E3%82%A3%E3%83%BC%E7%95%AA%E7%B5%84)">学校へ行こう! (バラエティー番組) - Wikipedia</a></li>
+</ul>
+<br />
+
+<br />
+<h3>[0:24:53] Docker導入をカジュアルにしすぎなのかどうか気になっています🐳</h3>
+<ul>
+  <li><a href="https://auth0.com/">Auth0: Secure access for everyone. But not just anyone.</a></li>
+  <li><a href="https://github.com/getsentry/sentry-cli">getsentry/sentry-cli: A command line utility to work with Sentry.</a></li>
+</ul>
+<br />
+
+<br />
+<h3>[0:31:06] slack × firebase × akashi で勤怠管理ツールを作ったらslackの仕様にハマった💼</h3>
+<ul>
+  <li><a href="https://thelooper.jp/">株式会社 Looper</a></li>
+</ul>
+<br />
+
+<br />
+<h3>[0:38:46] Haskellを勉強し始めた📚</h3>
+<ul>
+  <li><a href="https://github.com/gcanti/fp-ts">gcanti/fp-ts: Functional programming in TypeScript</a></li>
+  <li><a href="https://www.amazon.co.jp/dp/B009RO80XY/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1">すごいHaskellたのしく学ぼう！ | ＭｉｒａｎＬｉｐｏｖａｃａ, 田中英行, 村主崇行</a></li>
+</ul>
+<br />
+
+<br />
+<h3>[0:40:40] Podcast化🎙</h3>
+<ul>
+  <li><a href="https://podcasts.apple.com/jp/podcast/yskoht-podcast/id1615286386">Apple Podcast内のyskoht/podcast</a></li>
+</ul>
+]]></description>
+    </item>
+
+
+    <item>
       <title>6. 競馬データをスクレイピングするのは止めてください (obi)</title>
       <pubDate>Sun, 27 Mar 2022 13:40:00 +0900</pubDate>
       <enclosure url="https://cdn.stand.fm/audios/01FZ4TM2F6784BC4VXQRRH2ZKQ.m4a" type="audio/x-m4a" length="59011684"/>
