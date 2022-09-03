@@ -25,6 +25,34 @@
     <language>ja</language>
     <itunes:explicit>no</itunes:explicit>
 
+    <item>
+      <title>10. 共通鍵方式 (nemolize)</title>
+      <pubDate>Sat, 03 Sep 2022 14:49:37 GMT</pubDate>
+      <enclosure url="https://cdncf.stand.fm/audios/01GC1X82VQNBMFK64ZMYKQ6RXK.m4a" type="audio/x-m4a" length="82974363"/>
+      <itunes:duration>1:26:25</itunes:duration>
+      <link>https://stand.fm/episodes/6313684daacf5f023cde9d2e</link>
+      <guid isPermaLink="true">https://stand.fm/episodes/6313684daacf5f023cde9d2e</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>yskoht</itunes:author>
+      <itunes:subtitle>nemolizeさんとコンデンサマイク、冷蔵服、鍵、asdf、Raindrop.io、ゲームなどについて雑談しました。</itunes:subtitle>
+      <itunes:image href="https://yskoht.github.io/podcast/images/episode10.png" />
+      <description><![CDATA[ <p><a href="https://twitter.com/nemolize1">nemolize</a>さんと雑談しました。</p><br />
+<h2>Show Notes</h2>
+
+<br />
+<ul>
+  <li><a href="https://row.hyperx.com/ja/collections/microphones/products/hyperx-quadcast-s-usb-microphone?variant=40910061043917">HyperX QuadCast S</a></li>
+  <li><a href="https://www.thanko.co.jp/shopdetail/000000001214/">ペルチェベスト「冷蔵服」</a></li>
+  <li><a href="https://www.yubico.com/">YubiKey</a></li>
+  <li><a href="https://jp.candyhouse.co/">セサミ スマートロック</a></li>
+  <li><a href="https://asdf-vm.com/">asdf</a></li>
+  <li><a href="https://raindrop.io/">Raindrop.io</a></li>
+  <li><a href="https://github.com/yskoht/alfred-raindrop">yskoht/alfred-raindrop</a></li>
+  <li><a href="https://hitman.com/global/">HITMAN 3</a></li>
+  <li><a href="https://anond.hatelabo.jp/20220616231129">レベルという概念のあるゲームが完全に時間の無駄に思えてきた</a></li>
+</ul>
+]]></description>
+    </item>
 
     <item>
       <title>9. プロジェクト・ヘイル・メアリー (bushi422)</title>
