@@ -26,6 +26,42 @@
     <itunes:explicit>no</itunes:explicit>
 
     <item>
+      <title>11. 一見無関係に見えるけど、真の問題を解くのに必要な問題を解くのに必要な問題を解くのに必要な (ひらく)</title>
+      <pubDate>Wed, 05 Oct 2022 12:42:45 GMT</pubDate>
+      <enclosure url="https://cdncf.stand.fm/audios/01GEM2STFMF5NJZQ58ETHKDG1A.m4a" type="audio/x-m4a" length="62150219"/>
+      <itunes:duration>1:03:36</itunes:duration>
+      <link>https://stand.fm/episodes/633d7bc540bfa97cd9c4898d</link>
+      <guid isPermaLink="true">https://stand.fm/episodes/633d7bc540bfa97cd9c4898d</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>yskoht</itunes:author>
+      <itunes:subtitle>ひらくさんとcleanfeed, 権限管理, レスポンスの型付け, 結婚, ゲーミングPCなどについて雑談しました。</itunes:subtitle>
+      <itunes:image href="https://yskoht.github.io/podcast/images/episode11.png" />
+      <description><![CDATA[ <p><a href="https://twitter.com/yamazaki_sensei">ひらく</a>さんと雑談しました。</p><br />
+<h2>Show Notes</h2>
+
+<br />
+<ul>
+  <li><a href="https://cleanfeed.net/">cleanfeed</a></li>
+  <li>クーラーが壊れた</li>
+  <li>権限管理の実装が難しい</li>
+  <li><a href="https://github.com/varvet/pundit">varvet/pundit</a></li>
+  <li>動的型付けのWebFramework(railsとか) のレスポンスの型付けに関して</li>
+  <li><a href="https://qiita.com/yugui/items/160737021d25d761b353">今さらProtocol Buffersと、手に馴染む道具の話 - Qiita</a></li>
+  <li><a href="https://github.com/aspida/aspida">aspida/aspida</a></li>
+  <li>6:30に仕事を始めるとはかどる</li>
+  <li><a href="https://turborepo.org/">Turborepo</a></li>
+  <li><a href="https://nestjs.com/">NestJS</a></li>
+  <li><a href="https://fig.io/">Fig</a></li>
+  <li><a href="https://fishshell.com/">fish shell</a></li>
+  <li>結婚しました</li>
+  <li>ゲーミングpc買うか迷う</li>
+  <li>水出しコーヒーが便利</li>
+  <li>1on1</li>
+</ul>
+]]></description>
+    </item>
+
+    <item>
       <title>10. 共通鍵方式 (nemolize)</title>
       <pubDate>Sat, 03 Sep 2022 14:49:37 GMT</pubDate>
       <enclosure url="https://cdncf.stand.fm/audios/01GC1X82VQNBMFK64ZMYKQ6RXK.m4a" type="audio/x-m4a" length="82974363"/>
