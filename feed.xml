@@ -26,6 +26,37 @@
     <itunes:explicit>no</itunes:explicit>
 
     <item>
+      <title>12. Express.js or NestJS (kanenobu)</title>
+      <pubDate>Mon, 06 Nov 2022 15:20:13 GMT</pubDate>
+      <enclosure url="https://cdncf.stand.fm/audios/01GH6TN81MDX05JXV4RANSQJ4T.m4a" type="audio/x-m4a" length="54620637"/>
+      <itunes:duration>55:14</itunes:duration>
+      <link>https://stand.fm/episodes/6367d0ad408789f516aa2901</link>
+      <guid isPermaLink="true">https://stand.fm/episodes/6367d0ad408789f516aa2901</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>yskoht</itunes:author>
+      <itunes:subtitle>kanenobuさんとNestJS, FireStore, Zod, Turborepoなどについて雑談しました。</itunes:subtitle>
+      <itunes:image href="https://yskoht.github.io/podcast/images/episode12.png" />
+      <description><![CDATA[ <p><a href="https://twitter.com/mkane_1000">kanenobu</a>さんと雑談しました。</p><br />
+<h2>Show Notes</h2>
+
+<br />
+<ul>
+  <li><a href="https://nestjs.com/">NestJS</a></li>
+  <li><a href="https://firebase.google.com/docs/emulator-suite">Firebase Local EmulatorSuiteの概要</a></li>
+  <li><a href="https://github.com/colinhacks/zod#brand">zod#brand</a></li>
+  <li><a href="https://kumagi.hatenablog.com/entry/value-object">Value Objectについて整理しよう</a></li>
+  <li><a href="https://turbo.build/repo">Turborepo</a></li>
+  <li><a href="https://trpc.io/">tRPC</a></li>
+  <li><a href="https://www.the-guild.dev/graphql/codegen">GraphQL Code Generator</a></li>
+  <li><a href="https://store.google.com/jp/product/google_pixel_watch?hl=ja&pli=1">Google Pixel Watch - Google ストア</a></li>
+  <li>ギターを買った</li>
+  <li>メモって何を使ってますか？</li>
+  <li>インフラ難しい</li>
+</ul>
+]]></description>
+    </item>
+
+    <item>
       <title>11. 一見無関係に見えるけど、真の問題を解くのに必要な問題を解くのに必要な問題を解くのに必要な (ひらく)</title>
       <pubDate>Wed, 05 Oct 2022 12:42:45 GMT</pubDate>
       <enclosure url="https://cdncf.stand.fm/audios/01GEM2STFMF5NJZQ58ETHKDG1A.m4a" type="audio/x-m4a" length="62150219"/>
