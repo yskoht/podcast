@@ -26,6 +26,32 @@
     <itunes:explicit>no</itunes:explicit>
 
     <item>
+      <title>13. どの釣り堀に糸を垂らすか (obi)</title>
+      <pubDate>Wed, 30 Nov 2022 16:28:24 GMT</pubDate>
+      <enclosure url="https://cdncf.stand.fm/audios/01GK4NMGNZ520FW9DZSJWNSNJR.m4a" type="audio/x-m4a" length="63070291"/>
+      <itunes:duration>1:04:18</itunes:duration>
+      <link>https://stand.fm/episodes/63878253ba21ad967077a3a0</link>
+      <guid isPermaLink="true">https://stand.fm/episodes/63878253ba21ad967077a3a0</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>yskoht</itunes:author>
+      <itunes:subtitle>obiさんとebay, blog, ソフトウェアの名前, Linuxコマンドかるた などについて雑談しました。</itunes:subtitle>
+      <itunes:image href="https://yskoht.github.io/podcast/images/episode13.png" />
+      <description><![CDATA[ <p><a href="https://twitter.com/hiroyukiobinata">obi</a>さんと雑談しました。</p><br />
+<h2>Show Notes</h2>
+
+<br />
+<ul>
+  <li>ebayで商品が送られてこなかった話</li>
+  <li>いまさらブログを書き始めた <a href="https://i7y.org">https://i7y.org</a></li>
+  <li><a href="https://betterprogramming.pub/software-component-names-should-be-whimsical-and-cryptic-ca260b013de0">Software Component Names Should Be Whimsical And Cryptic | by Aaron Zinger | Better Programming</a></li>
+  <li><a href="https://boardgame-replay.com/archives/overeview-Linux_karuta-221027.html">『Linuxコマンドかるた』開封と遊び方紹介 : ある元心理カウンセラーのボードゲーム日記</a></li>
+  <li><a href="https://kozos.jp/binary-karuta/">バイナリかるた</a></li>
+  <li><a href="https://quantum-public-diary.blogspot.com/2015/09/arm.html">quantum の記録: バイナリファイルの可視化（ARMの機械語コードの縦縞が見たい！）</a></li>
+</ul>
+]]></description>
+    </item>
+
+    <item>
       <title>12. Express.js or NestJS (kanenobu)</title>
       <pubDate>Mon, 06 Nov 2022 15:20:13 GMT</pubDate>
       <enclosure url="https://cdncf.stand.fm/audios/01GH6TN81MDX05JXV4RANSQJ4T.m4a" type="audio/x-m4a" length="54620637"/>
