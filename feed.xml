@@ -26,6 +26,34 @@
     <itunes:explicit>no</itunes:explicit>
 
     <item>
+      <title>14. 関数型の力をあなたに (diskshima)</title>
+      <pubDate>Fri, 30 Dec 2022 14:23:39 GMT</pubDate>
+      <enclosure url="https://cdncf.stand.fm/audios/01GNHP5J4SCCW0B8ZVB2X85XX3.m4a" type="audio/x-m4a" length="59719711"/>
+      <itunes:duration>1:0:31</itunes:duration>
+      <link>https://stand.fm/episodes/63aef208374339aae5f51192</link>
+      <guid isPermaLink="true">https://stand.fm/episodes/63aef208374339aae5f51192</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>yskoht</itunes:author>
+      <itunes:subtitle>Daisuke Shimamotoさんと関数型プログラミング、Pixel 7/Pixel Watch、World Cup、Shura などについて雑談しました。</itunes:subtitle>
+      <itunes:image href="https://yskoht.github.io/podcast/images/episode14.png" />
+      <description><![CDATA[ <p><a href="https://twitter.com/diskshima">Daisuke Shimamoto</a>さんと雑談しました。</p><br />
+<h2>Show Notes</h2>
+
+<br />
+<ul>
+  <li>関数型プログラミング</li>
+  <li><a href="https://www.youtube.com/watch?v=V10hzjgoklA">Category Theory for the Working Hacker by Philip Wadler</a></li>
+  <li><a href="https://github.com/diskshima/gwcli-hs">diskshima / gwcli-hs</a></li>
+  <li><a href="https://gilmi.me/blog/post/2022/12/13/learned-from-haskell">λm.me - 7 things I learned from Haskell</a></li>
+  <li>Pixel 7とPixel Watch買いました</li>
+  <li>World Cup</li>
+  <li><a href="https://www.amazon.co.jp/dp/B00W0WJ3KO">プロサッカー監督の仕事</a></li>
+  <li><a href="https://tex.com.tw/products/shura">Shura (Pre-order) | TEX Electronics</a></li>
+</ul>
+]]></description>
+    </item>
+
+    <item>
       <title>13. どの釣り堀に糸を垂らすか (obi)</title>
       <pubDate>Wed, 30 Nov 2022 16:28:24 GMT</pubDate>
       <enclosure url="https://cdncf.stand.fm/audios/01GK4NMGNZ520FW9DZSJWNSNJR.m4a" type="audio/x-m4a" length="63070291"/>
