@@ -26,6 +26,34 @@
     <itunes:explicit>no</itunes:explicit>
 
     <item>
+      <title>15. 副業との付き合い方 (ひらく)</title>
+      <pubDate>Mon, 13 Feb 2023 13:57:16 GMT</pubDate>
+      <enclosure url="https://cdncf.stand.fm/audios/01GS5H1E53VTVDMWPWG36A6JJB.m4a" type="audio/x-m4a" length="55350571"/>
+      <itunes:duration>0:56:35</itunes:duration>
+      <link>https://stand.fm/episodes/63ea4172ffe1bdd1ea92ceb0</link>
+      <guid isPermaLink="true">https://stand.fm/episodes/63ea4172ffe1bdd1ea92ceb0</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>yskoht</itunes:author>
+      <itunes:subtitle>ひらくさんと副業、確定申告、M2 Pro、散財、スプラトゥーン、2048、はじめの一歩 などtについて雑談しました。</itunes:subtitle>
+      <itunes:image href="https://yskoht.github.io/podcast/images/episode15.png" />
+      <description><![CDATA[ <p><a href="https://twitter.com/yamazaki_sensei">ひらく</a>さんと雑談しました。</p><br />
+<h2>Show Notes</h2>
+
+<br />
+<ul>
+  <li>副業との付き合い方</li>
+  <li>確定申告の季節</li>
+  <li>M2 Pro MacBookPro</li>
+  <li>散財2023</li>
+  <li>スプラトゥーン3にどハマりしてしまった</li>
+  <li>ts × jsonschemaのその後</li>
+  <li><a href="https://github.com/yskoht/2048hs">2048hs</a></li>
+  <li>はじめの一歩</li>
+</ul>
+]]></description>
+    </item>
+
+    <item>
       <title>14. 関数型の力をあなたに (diskshima)</title>
       <pubDate>Fri, 30 Dec 2022 14:23:39 GMT</pubDate>
       <enclosure url="https://cdncf.stand.fm/audios/01GNHP5J4SCCW0B8ZVB2X85XX3.m4a" type="audio/x-m4a" length="59719711"/>
