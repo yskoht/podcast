@@ -26,6 +26,49 @@
     <itunes:explicit>no</itunes:explicit>
 
     <item>
+      <title>18. 亀とスマートホーム (nemolize)</title>
+      <pubDate>Tue, 01 Aug 2023 13:48:48 GMT</pubDate>
+      <enclosure url="https://cdncf.stand.fm/audios/01H6RNQD6KR09RR50NMM22PDBF.m4a" type="audio/x-m4a" length="82660553"/>
+      <itunes:duration>1:24:07</itunes:duration>
+      <link>https://stand.fm/episodes/64c90bd422bb077d8cf69798</link>
+      <guid isPermaLink="true">https://stand.fm/episodes/64c90bd422bb077d8cf69798</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>yskoht</itunes:author>
+      <itunes:subtitle>nemolizeさんとスマートホーム化、VSCode、ターミナルなどについて雑談しました</itunes:subtitle>
+      <itunes:image href="https://yskoht.github.io/podcast/images/episode18.png" />
+      <description><![CDATA[ <p><a href="https://twitter.com/nemolize1">nemolize</a>さんと雑談しました。</p><br />
+<h2>Show Notes</h2>
+
+<br />
+<ul>
+  <li>結婚&新居での新生活スタートしました</li>
+  <ul>
+    <li>カメの水槽メンテの改善</li>
+  </ul>
+  <li>観葉植物育ててます</li>
+  <ul>
+    <li>カリプトラツス</li>
+  </ul>
+  <li>スマートホーム化進めてます</li>
+  <ul>
+    <li>Alexa vs Google Home 両方使ってみた所感</li>
+    <li>スマートごみ箱</li>
+    <ul>
+      <li><a href="https://townew.jp/">https://townew.jp/</a></li>
+    </ul>
+  </ul>
+  <li>Philips Hueが使っているZigbeeについて</li>
+  <li><a href="https://mono-wireless.com/jp/products/TWE-LITE/index.html">TweLite</a></li>
+  <li>Deebot X1 OMNI</li>
+  <li>Galaxy Fold 4</li>
+  <li>JetBrains IDEからVSCodeに移行中</li>
+  <li><a href="https://sw.kovidgoyal.net/kitty/">kitty</a></li>
+  <li><a href="https://chrome.google.com/webstore/detail/falcon/mmifbbohghecjloeklpbinkjpbplfalb">Falcon</a></li>
+</ul>
+]]></description>
+    </item>
+
+    <item>
       <title>17. Stable Diffusionガチャ (bushi422)</title>
       <pubDate>Sat, 27 May 2023 05:57:55 GMT</pubDate>
       <enclosure url="https://cdncf.stand.fm/audios/01H1DWHNQ07TRN78QW79KKK74Z.m4a" type="audio/x-m4a" length="77817457"/>
