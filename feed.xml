@@ -25,6 +25,36 @@
     <language>ja</language>
     <itunes:explicit>no</itunes:explicit>
 
+   <item>
+      <title>19. 拡張子は絵文字の炎 (diskshima)</title>
+      <pubDate>Sun, 15 Oct 2023 15:45:31 GMT</pubDate>
+      <enclosure url="https://cdncf.stand.fm/audios/01HCT071RC4KWQ2CEE75Q4PX0F.m4a" type="audio/x-m4a" length="63717176"/>
+      <itunes:duration>1:04:30</itunes:duration>
+      <link>https://stand.fm/episodes/652c082d148e69d50cd77b77</link>
+      <guid isPermaLink="true">https://stand.fm/episodes/652c082d148e69d50cd77b77</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>yskoht</itunes:author>
+      <itunes:subtitle>**************************************</itunes:subtitle>
+      <itunes:subtitle>Daisuke Shimamotoさんとスマートウォッチ、3Dプリンタ、大規模言語モデル、ブログ、Windows などについて雑談しました。</itunes:subtitle>
+      <itunes:image href="https://yskoht.github.io/podcast/images/episode19.png" />
+      <description><![CDATA[ <p><a href="https://twitter.com/mkane_1000">kanenobu</a>さんと雑談しました。</p><br />
+<h2>Show Notes</h2>
+
+<br />
+<ul>
+  <li><a href="https://www.mobvoi.com/us/pages/ticwatchpro5">TicWatch Pro 5</a></li>
+  <li><a href="https://www.ankerjapan.com/pages/anker-make">AnkerMake M5</a></li>
+  <li><a href="https://www.anthropic.com/index/claude-2">Claude-2</a></li>
+  <li><a href="https://www.perplexity.ai/">Perplexity.ai</a></li>
+  <li><a href="https://www.modular.com/mojo">Mojo</a></li>
+  <li><a href="https://diskshimaja.substack.com/"></a>diskshimaのブログ</li>
+  <li><a href="https://rustdesk.com/">RustDesk</a></li>
+  <li><a href="https://www.autohotkey.com/">AutoHotKey</a></li>
+  <li><a href="https://podcast.adobe.com/enhance">Adobe Podcast</a></li>
+</ul>
+]]></description>
+    </item>
+
     <item>
       <title>18. 亀とスマートホーム (nemolize)</title>
       <pubDate>Tue, 01 Aug 2023 13:48:48 GMT</pubDate>
