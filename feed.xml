@@ -34,7 +34,6 @@
       <guid isPermaLink="true">https://stand.fm/episodes/652c082d148e69d50cd77b77</guid>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>yskoht</itunes:author>
-      <itunes:subtitle>**************************************</itunes:subtitle>
       <itunes:subtitle>Daisuke Shimamotoさんとスマートウォッチ、3Dプリンタ、大規模言語モデル、ブログ、Windows などについて雑談しました。</itunes:subtitle>
       <itunes:image href="https://yskoht.github.io/podcast/images/episode19.png" />
       <description><![CDATA[ <p><a href="https://twitter.com/mkane_1000">kanenobu</a>さんと雑談しました。</p><br />
@@ -47,7 +46,7 @@
   <li><a href="https://www.anthropic.com/index/claude-2">Claude-2</a></li>
   <li><a href="https://www.perplexity.ai/">Perplexity.ai</a></li>
   <li><a href="https://www.modular.com/mojo">Mojo</a></li>
-  <li><a href="https://diskshimaja.substack.com/"></a>diskshimaのブログ</li>
+  <li><a href="https://diskshimaja.substack.com/">diskshimaのブログ</a></li>
   <li><a href="https://rustdesk.com/">RustDesk</a></li>
   <li><a href="https://www.autohotkey.com/">AutoHotKey</a></li>
   <li><a href="https://podcast.adobe.com/enhance">Adobe Podcast</a></li>
