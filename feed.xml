@@ -25,7 +25,33 @@
     <language>ja</language>
     <itunes:explicit>no</itunes:explicit>
 
-   <item>
+    <item>
+          <title>20. 1万円の耳掻き (ひらく)</title>
+          <pubDate>Sat, 07 Sep 2024 06:11:04 GMT</pubDate>
+          <enclosure url="https://cdncf.stand.fm/audios/01J75HPXDP41BRP6HJNF4KGCVQ.m4a" type="audio/x-m4a" length="50266191"/>
+          <itunes:duration>0:56:1</itunes:duration>
+          <link>https://stand.fm/episodes/66dbee19bdf8b700041069e1</link>
+          <guid isPermaLink="true">https://stand.fm/episodes/66dbee19bdf8b700041069e1</guid>
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:author>yskoht</itunes:author>
+          <itunes:subtitle>ひらくさんとレイオフ、健康診断、スプラトゥーン、喋り方、確定申告 などについて雑談しました。</itunes:subtitle>
+          <itunes:image href="https://yskoht.github.io/podcast/images/episode20.png" />
+          <description><![CDATA[ <p><a href="https://twitter.com/yamazaki_sensei">ひらく</a>さんと雑談しました。</p><br />
+    <h2>Show Notes</h2>
+
+    <br />
+    <ul>
+      <li>レイオフ</li>
+      <li>健康診断の結果から加齢を実感している</li>
+      <li>スプラトゥーン3を1600時間やってしまった</li>
+      <li>ミーティングとかで陥りがちな自分の喋り方のもにょもにょした感じをどうにかしたい</li>
+      <li>確定申告の季節</li>
+      <li>新NISA</li>
+    </ul>
+    ]]></description>
+    </item>
+
+    <item>
       <title>19. 拡張子は絵文字の炎 (diskshima)</title>
       <pubDate>Sun, 15 Oct 2023 15:45:31 GMT</pubDate>
       <enclosure url="https://cdncf.stand.fm/audios/01HCT071RC4KWQ2CEE75Q4PX0F.m4a" type="audio/x-m4a" length="63717176"/>
@@ -34,7 +60,6 @@
       <guid isPermaLink="true">https://stand.fm/episodes/652c082d148e69d50cd77b77</guid>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>yskoht</itunes:author>
-      <itunes:subtitle>**************************************</itunes:subtitle>
       <itunes:subtitle>Daisuke Shimamotoさんとスマートウォッチ、3Dプリンタ、大規模言語モデル、ブログ、Windows などについて雑談しました。</itunes:subtitle>
       <itunes:image href="https://yskoht.github.io/podcast/images/episode19.png" />
       <description><![CDATA[ <p><a href="https://twitter.com/mkane_1000">kanenobu</a>さんと雑談しました。</p><br />
